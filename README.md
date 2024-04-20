@@ -13,7 +13,8 @@
 
 ## 快速使用
 
-请前往 <a href="https://wenlei.club/wen-argon-theme-emoji#quick-start">https://wenlei.club/wen-argon-theme-emoji#quick-start</a> 查看使用教程
+<s>请前往 <a href="https://wenlei.club/wen-argon-theme-emoji#quick-start">https://wenlei.club/wen-argon-theme-emoji#quick-start</a> 查看使用教程</s>
+博客文章清空，暂无教程
 
 ## 已完成的表情包
 
