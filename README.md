@@ -6,7 +6,9 @@
 
 简体中文 / [English](README_en.md)
 
-一套表情插件，适用于Wordpress版Argon主题
+<h2>由于不再使用Wordpress，所以本插件无限期停更。</h2>
+
+一套表情插件，适用于Wordpress版Argon主题。
 
 
 ### <strong>请注意，这些表情包不能用于商业用途</strong>
